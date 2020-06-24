@@ -1,0 +1,12 @@
+﻿  Tugas.cpp
+D:\Nguli'ahh\Grafika Kom\Handling Keyboard\Handling Keyboard\Tugas.cpp(21,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Handling Keyboard\Handling Keyboard\Tugas.cpp(46,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Handling Keyboard\Handling Keyboard\Tugas.cpp(47,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Handling Keyboard\Handling Keyboard\Tugas.cpp(48,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Nguli'ahh\Grafika Kom\Handling Keyboard\Handling Keyboard\Tugas.cpp(49,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  2 of 121 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Handling Keyboard.vcxproj -> D:\Nguli'ahh\Grafika Kom\Handling Keyboard\x64\Release\Handling Keyboard.exe
